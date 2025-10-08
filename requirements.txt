@@ -1,0 +1,7 @@
+pygame==2.6.1
+pyinstaller>=5.1
+# Optional utilities used in repo:
+# Pillow for image processing if you add conversion scripts that use it
+Pillow>=9.0.0
+# pcgrandom or other PRNG libs are optional
+# pcgrandom>=2.1.0
